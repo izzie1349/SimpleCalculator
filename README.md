@@ -5,7 +5,7 @@ A calculator that takes in two operands and operation, then performs the operati
 
 First clone the project
 ~~~
-git clone
+git clone https://github.com/izzie1349/SimpleCalculator.git
 ~~~
 
 Run the app
